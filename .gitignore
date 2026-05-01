@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local builds and installed app bundles
+build/
+dist/
+*.app/
+
+# Generated exports
+outputs/
+MobileLongformExports/
+*.reader-screen-pages.pdf
+*-page-*.png
+*.pdf
+
+# Local config and editor state
+.idea/
+.vscode/
+*.log
+.env
+.env.*
