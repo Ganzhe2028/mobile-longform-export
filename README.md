@@ -1,5 +1,7 @@
 # Mobile Longform Export
 
+[中文说明](README.zh-CN.md)
+
 Mobile Longform Export is a local macOS tool that turns Markdown into
 iPhone-readable longform PDF and paged PNG files.
 
