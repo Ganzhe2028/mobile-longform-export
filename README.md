@@ -5,6 +5,9 @@
 Mobile Longform Export is a local macOS tool that turns Markdown into
 iPhone-readable longform PDF and paged PNG files.
 
+![demo](/samples/demo.gif)
+![screenshot](/samples/demo.png)
+
 It is built for Chinese-English mixed articles that are shared to phone readers.
 The renderer targets an iPhone-class reading canvas: `402 x 874 CSS px` at `3x`
 scale, exported as `1206 x 2622` PDF pages and matching PNG pages.
